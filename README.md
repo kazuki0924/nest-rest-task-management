@@ -7,7 +7,7 @@ Nest.js, PostgreSQL, TypeORM, Passport.js, Elastic Beanstalk
 - [x] PostgreSQLによるRDBデータモデリング経験
 - [x] マネージドサービスの利用経験
 - [x] API開発支援ツール（Postman）の利用経験
-- [x] Session&Cookie方式からJWT方式へのリプレース
+- [x] セッション&クッキー方式からJWT方式へのリプレース
 
 # 課題
 - [ ] クライアントサイドの実装(Angularでの実装を断念、現在はVue.js/Nuxt.jsで調査中)
