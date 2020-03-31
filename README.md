@@ -10,7 +10,7 @@ Nest.js, PostgreSQL, TypeORM, Passport.js, Elastic Beanstalk
 - [x] セッション&クッキー方式からJWT方式へのリプレース
 
 # 課題
-- [ ] クライアントサイドの実装(Angularでの実装を断念、現在はVue.js/Nuxt.jsで調査中)
+- [ ] クライアントサイドの実装
 - [ ] UIライブラリ選定
 - [ ] 機能追加(Puppeteerによるデータ取得&バッチ処理)
 - [ ] ソーシャルログイン
